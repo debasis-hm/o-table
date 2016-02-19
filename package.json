@@ -1,0 +1,19 @@
+{
+  "name": "o-table",
+  "version": "1.0.0",
+  "description": "draw a html responsive table ",
+ "main": ["main.js","main.scss"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private":true,
+  "devDependencies":{
+      "gulp":"latest",
+      "origami-build-tools":"latest"
+    },
+  "keywords": [
+    "bar"
+  ],
+  "author": "debasis.p.satapathy@happiestminds.com",
+  "license": "ISC"
+}

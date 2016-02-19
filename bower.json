@@ -1,0 +1,17 @@
+{
+    "name": "o-table",
+    "version": "1.0.0",
+    "authors": [
+    "Debasis Satapathy <debasis.p.satapathy@happiestminds.com>"
+  ],
+    "description": "draw a html responsive table ",
+    "main": ["main.js","main.scss"],
+    "keywords": [
+    "graph"
+  ],
+    "license": "MIT",
+    "homepage": "index.html",
+    "dependencies": {
+      		
+    }
+}
