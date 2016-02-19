@@ -90,6 +90,10 @@ export default function dynamic_tabledata_bind(options) {
 
 let drawOtable = new dynamic_tabledata_bind();
 
-export default function (options) {       
-        drawOtable.init(options);		
+export default function (options) {    
+
+	if(options != undefined){
+		drawOtable.init(options);	
+	}        	
+	
 }
