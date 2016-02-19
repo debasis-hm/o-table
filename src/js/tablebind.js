@@ -85,7 +85,7 @@ export default function dynamic_tabledata_bind(options) {
 			 document.getElementById("tbodyid").innerHTML = table_row;  
 		
 	    };
-	    db.init();
+	   
 }
 
 let drawOtable = new dynamic_tabledata_bind();
